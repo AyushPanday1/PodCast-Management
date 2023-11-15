@@ -29,7 +29,7 @@ Lama PodCraft is a podcast management platform that empowers users to effortless
 
 ### Installation
 **Clone the repository:**
-   ```bash
+   
    git clone https://github.com/your-username/your-podcast-project.git
    cd your-podcast-project
 
@@ -37,18 +37,18 @@ Ensure the backend API is running and configured in the frontend code.
 
 Open your browser and navigate to http://localhost:3000.
 
-🌐 API Endpoints
+### 🌐 API Endpoints
 /projects (POST): Create a new podcast project.
 /projects (GET): Retrieve all podcast projects.
 Configure the API URL in the frontend code (e.g., src/pages/HomePage.js).
 
 .
 
-🤝 Contributing
+### 🤝 Contributing
 Contributions are welcome! If you have ideas for improvements or find bugs, please create an issue or submit a pull request.
 
 .
 
-📄 License
+### 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
