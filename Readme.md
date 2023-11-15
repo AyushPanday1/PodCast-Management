@@ -30,7 +30,7 @@ Lama PodCraft is a podcast management platform that empowers users to effortless
 ### Installation
 **Clone the repository:**
    
-   git clone https://github.com/AyushPanday1/your-podcast-project.git
+   git clone https://github.com/AyushPanday1/PodCast-Management.git
    cd your-podcast-project
 
 Ensure the backend API is running and configured in the frontend code.
